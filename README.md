@@ -1,3 +1,5 @@
+#文档说明
+本文档适合替换cocos2d-x-3.17中tests，并在build/cocos2d-win32.sln打开即可运行，下面是classes具体内容
 # Classes 目录文件说明
 
 本文档说明 `tests/cpp-empty-test/Classes` 目录下当前各个文件的职责，便于后续维护和继续开发。
